@@ -1,6 +1,0 @@
-let bar: Int = 12
-let negfoo = -bar
-print("opposite of \(bar) is \(negfoo)")
-
-
-
